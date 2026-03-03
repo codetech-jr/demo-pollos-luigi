@@ -4,7 +4,7 @@ import { HelpCircle } from 'lucide-react';
 const FAQS = [
     {
         question: "¿Cobran comisión por pago por transferencia en Bolívares?",
-        answer: "No, no cobramos ninguna comisión extra. El cálculo se realiza a la tasa establecida del día multiplicando el subtotal en dólares por la tasa de cambio ($1 = 50.0 Bs)."
+        answer: "No, no cobramos ninguna comisión extra. El cálculo se realiza a la tasa establecida del día multiplicando el subtotal en dólares por la tasa de cambio ($1 = tasa del día del BCV)."
     },
     {
         question: "¿Cuánto es el monto mínimo para pedir delivery?",
